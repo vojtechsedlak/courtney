@@ -2,7 +2,7 @@
 title: About Courtney
 subtitle: Courtney is a Registered Clinical Counsellor, a Registered Holistic
   Nutritionist and a Chef.
-image: img/img_0984.jpg
+image: img/rsz_img_0984.jpg
 ---
 
 I worked as a personal chef and holistic nutritionist, helping others with their relationships with food. It was this experience, along with my own struggles with food and body, that led me to pursue a career in counselling so that I could expand and deepen my knowledge about the complex relationships we humans have with food, our bodies, and our emotions and better help people struggling with all three. 
