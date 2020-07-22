@@ -14,6 +14,8 @@
   </div>
 </div>
 
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "image" .Params.values.image "buttonText" "Read more" "buttonLink" "/values") }}
+
 
 <!-- <div class="pb4">
   {{ range .Params.testimonials }}

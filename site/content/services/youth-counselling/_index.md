@@ -9,6 +9,13 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
+values:
+  heading: My Approach
+  image: img/jordan-mcqueen-88xm5al3axg-unsplash.jpg
+  text: Coffee is an amazing part of human culture but it has a dark side too –
+    one of colonialism and mindless abuse of natural resources and human lives.
+    We want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 type: services
 layout: services
 image: /img/products-jumbotron.jpg
