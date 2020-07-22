@@ -11,12 +11,14 @@ intro:
   heading: Counselling Services
   text: "My professional focus is on the following areas:"
 services:
-  - image: img/plate.png
+  - heading: Disordered Eating
+    image: img/plate.png
     text: I offer therapeutic support to individuals across the spectrum of
       disordered eating as well as to individuals with clinically diagnosed
       eating disorders.
     address: /services/eating-disorders
-  - image: img/jordan-mcqueen-88xm5al3axg-unsplash.jpg
+  - heading: Youth Counselling
+    image: img/jordan-mcqueen-88xm5al3axg-unsplash.jpg
     text: "I thoroughly enjoy providing young people with a non-judgemental and
       supportive space to explore themselves as they are, as well as who they
       want to become. "
