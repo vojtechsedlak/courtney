@@ -6,7 +6,7 @@ blurb:
   heading: About Courtney
   text: As a Registered Clinical Counsellor and a Holistic Nutritionist I offer a
     variety of counselling services online and in-person in Victoria, BC.
-  profile: img/img_1118_25.jpg
+  profile: img/courtney-r.png
 intro:
   heading: Counselling Services
   text: "My professional focus is on the following areas:"
