@@ -22,22 +22,22 @@ collections: # A list of collections the CMS should be able to edit
         label: "Home Page"
         name: "home"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: "Blurb", name: blurb, widget: object, fields: [
-              {label: "Heading", name: "heading", widget: string},
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Subtitle", name: "subtitle", widget: "string"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Blurb", name: "blurb", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
               {label: "Text", name: "text", widget: "text"},
-              {label: "Profile", name: "profile", widget: image}]}
-          - {label: "Intro", name: intro, widget: object, fields: [
-              {label: "Heading", name: "heading", widget: string},
+              {label: "Profile", name: "profile", widget: "image"}]}
+          - {label: "Intro", name: "intro", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
               {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Services", name: services, widget: list, fields: [
+          - {label: "Services", name: "services", widget: "list", fields: [
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"},
-              {label: "Address", name: "address", widget: "text"}]}
-          - {label: "Values", name: values, widget: list, fields: [
-              {label: "Heading", name: "heading", widget: "text"},
+              {label: "Address", name: "address", widget: "string"}]}
+          - {label: "Values", name: "values", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string",
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
       - file: "site/content/about/_index.md"
@@ -69,13 +69,13 @@ collections: # A list of collections the CMS should be able to edit
         label: "Eating Disorders Counselling"
         name: "disordered-eating"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Body, name: body, widget: markdown}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-          - {label: "Values", name: values, widget: list, fields: [
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Heading", name: "heading", widget: "string"}
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: Testimonials, name: "testimonials", widget: list, fields: [{label: "Quote", name: "quote", widget: "string"}, {label: "Author", name: "author", widget: "string"}]}
+          - {label: "Values", name: "values", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "text"},
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
@@ -83,13 +83,13 @@ collections: # A list of collections the CMS should be able to edit
         label: "Youth Counselling"
         name: "youth-counselling"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Body, name: body, widget: markdown}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-          - {label: "Values", name: values, widget: list, fields: [
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Heading", name: "heading", widget: "string"}
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: Testimonials, name: "testimonials", widget: list, fields: [{label: "Quote", name: "quote", widget: "string"}, {label: "Author", name: "author", widget: "string"}]}
+          - {label: "Values", name: "values", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "text"},
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
