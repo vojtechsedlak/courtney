@@ -1,6 +1,6 @@
 ---
 title: What I believe
-image: /img/about-jumbotron.jpg
+image: img/johannes-plenio-rwhv7lgec7s-unsplash.jpg
 values:
   - heading: Creating a safe environment
     text: >
