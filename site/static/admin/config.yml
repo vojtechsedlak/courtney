@@ -29,11 +29,15 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"},
               {label: "Profile", name: "profile", widget: image}]}
+          - {label: "Intro", name: intro, widget: object, fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Text", name: "text", widget: "text"}]}
           - {label: "Services", name: services, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"},
               {label: "Address", name: "address", widget: "text"}]}
           - {label: "Values", name: values, widget: list, fields: [
+              {label: "Heading", name: "heading", widget: "text"},
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
       - file: "site/content/about/_index.md"
@@ -61,7 +65,7 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
-      - file: "site/content/services/eating-disorders.md"
+      - file: "site/content/services/eating-disorders/_index.md"
         label: "Eating Disorders Counselling"
         name: "disordered-eating"
         fields:
@@ -71,16 +75,16 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Description, name: description, widget: string}
           - {label: Body, name: body, widget: markdown}
           - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-      - file: "site/content/services/youth-counselling.md"
+      - file: "site/content/services/youth-counselling/_index.md"
         label: "Youth Counselling"
         name: "youth-counselling"
         fields:
-          - {label: Title, name: titlee, widget: string}
-          - {label: Image, name: imagee, widget: image}
-          - {label: Heading, name: headingg, widget: string}
-          - {label: Description, name: descriptionn, widget: string}
-          - {label: Body, name: bodyy, widget: markdown}
-          - {label: Testimonials, name: testimonialss, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: Body, name: body, widget: markdown}
+          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
       - file: "site/content/values/_index.md"
         label: "Values Page"
         name: "values"

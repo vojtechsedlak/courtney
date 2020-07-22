@@ -1,16 +1,7 @@
 ---
 title: Eating Disorders Counselling
 heading: What we offer
-intro:
-  heading: What we offer
-  description:
-main:
-  heading: My Experience 
-  description: >
-    I have always been curious about how we as humans relate to food. This curiosity has manifested itself in various ways, from food writing while at university to going to culinary and pastry school, working as a personal chef, becoming a Registered Holistic Nutritionist, and ultimately pursuing a masters in counselling with my thesis research focusing on the cultural aspects of orthorexia. 
-
-    While pursuing my counselling degree, I worked as a Holistic Nutritionist helping youth and adult clients struggling with eating disorders and disordered eating to improve their relationship with food and their bodies. As part of my masters program I completed an internship in an eating disorder program for children and youth in Port Moody, British Columbia. I also volunteer for the Looking Glass Foundation supporting adults in the community who are struggling with their relationship to food and body. 
-
+description: This is the description
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
