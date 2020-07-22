@@ -4,17 +4,22 @@ subtitle: Lorem ipsum dolor
 image: img/jay-mantri-tfyi0qox08c-unsplash.jpg
 blurb:
   heading: About Courtney
-  text: Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor
-  profile: img/products-grid2.jpg
+  text: As a Registered Clinical Counsellor and a Holistic Nutritionist I offer a
+    variety of counselling services online and in-person in Victoria, BC.
+  profile: img/img_1118_25.jpg
 intro:
   heading: Counselling Services
-  text: lorem ipsum
+  text: "My professional focus is on the following areas:"
 services:
-  - image: img/products-grid2.jpg
-    text: Eating Disorder Counselling
+  - image: img/plate.png
+    text: I offer therapeutic support to individuals across the spectrum of
+      disordered eating as well as to individuals with clinically diagnosed
+      eating disorders.
     address: /services/eating-disorders
   - image: img/jordan-mcqueen-88xm5al3axg-unsplash.jpg
-    text: Youth Counselling
+    text: "I thoroughly enjoy providing young people with a non-judgemental and
+      supportive space to explore themselves as they are, as well as who they
+      want to become. "
     address: /services/youth-counselling
 values:
   heading: My Approach
