@@ -1,6 +1,6 @@
 ---
 title: Eating Disorder and Youth Counselling
-subtitle: Lorem ipsum dolor
+subtitle: Helping you be your best self.
 quote: " “Vulnerability is the birthplace of innovation, creativity and change.” "
 author: -Brenee Brown
 image: img/jay-mantri-tfyi0qox08c-unsplash.jpg
