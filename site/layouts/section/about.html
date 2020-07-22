@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+<div class="ph3 bg-off-white">
+	<div class="center mw7 pv3">
+		
+		<img src="{{ .Params.image }}" alt="" class="fr w4 pv3">
+		<h3 class="f2 b lh-title mb3">{{ .Title }}</h3>
+		{{ .Content }}
+
+	</div>
+</div>
+
+{{ end }}

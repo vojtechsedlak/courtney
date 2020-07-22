@@ -1,7 +1,7 @@
 :root {
 	/* Colors */
 	--primary: #6ba775;
-	--highlight: rgba(254, 213, 198, 1);
+	--highlight: #A76B9D;
 	--white: rgba(255, 255, 255, 1);
 	--off-white: rgba(255, 253, 252, 1);
 	--grey-1: rgba(245, 243, 242, 1);
@@ -14,9 +14,9 @@
 	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
 	--line-height: 1.5;
 
-	--font-size: 18px;
-	--font-size-m: 20px;
-	--font-size-l: 22px;
+	--font-size: 16px;
+	--font-size-m: 18px;
+	--font-size-l: 20px;
 
 	--body-font-weight: 400;
 	--bold-font-weight: 700;
@@ -27,8 +27,8 @@
 	--spacing-small: .5rem;
 	--spacing-medium: 1rem;
 	--spacing-large: 2rem;
-	--spacing-extra-large: 4rem;
-	--spacing-extra-extra-large: 8rem;
+	--spacing-extra-large: 6rem;
+	--spacing-extra-extra-large: 10rem;
 	--spacing-extra-extra-extra-large: 16rem;
 
 	/* Miscelaneous */

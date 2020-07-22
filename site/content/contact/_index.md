@@ -1,18 +1,16 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: "Get in touch"
+image: "img/jay-mantri-tfyi0qox08c-unsplash.jpg"
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: "Open to virtual appointments using Zoom and in-person appointments in Victoria, BC."
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Reach out to make an appointment. "
 ---
 
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
 is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
 You can also use the form below for any inquiries about coffee
 availability, monthly subscriptions and scheduling a 1-on-1 session

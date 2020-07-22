@@ -1,14 +1,11 @@
 ---
 title: "About Courtney"
-logo: "/img/logo.png"
+image: "img/jay-mantri-tfyi0qox08c-unsplash.jpg"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+I worked as a personal chef and holistic nutritionist, helping others with their relationships with food. It was this experience, along with my own struggles with food and body, that led me to pursue a career in counselling so that I could expand and deepen my knowledge about the complex relationships we humans have with food, our bodies, and our emotions and better help people struggling with all three. 
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+I then went on to complete my Master of Counselling degree at City University of Seattle, 
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+My passion for working with youth stems from years of experience working with young people in different capacities, and from the the compassion and admiration I have for individuals navigating this stage of life that is often chock-full of challenges--challenges around identity, self-esteem, anxiety, planning for the future, navigating relationships, family transitions, and body transformations, to name a few. I thoroughly enjoy providing young people with a non-judgemental space to explore themselves as they are, as well as who they want to become. 
+
