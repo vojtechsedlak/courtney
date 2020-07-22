@@ -19,7 +19,7 @@ values:
 full_image: /img/products-full-width.jpg
 type: services
 layout: services
-image: /img/products-jumbotron.jpg
+image: /img/plate-g.png
 ---
 Having struggled with disordered eating in my early twenties, I know first hand how scary, confusing, and lonely it can feel, and how difficult it can be to seek help. My personal experience living with and recovering from a disordered relationship with food and body has been a huge driving force behind the work I do with individuals struggling with eating disorders and disordered eating. 
 
