@@ -6,6 +6,11 @@
 
 {{ partial "2-up" .Params }}
 
+<!-- Full-width image -->
+<!-- <img src="{{ .Params.full_image }}" alt="" class="db w-100"> -->
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.full_image "title" .Params.quote "subtitle" .Params.author) }}
+
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "image" .Params.values.image "buttonText" "Read more" "buttonLink" "/values") }}
 
 {{ partial "blog" . }}

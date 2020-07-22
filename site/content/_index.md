@@ -1,7 +1,10 @@
 ---
 title: Eating Disorder and Youth Counselling
 subtitle: Lorem ipsum dolor
+quote: '"Talk to yourself like you would to someone you love."'
+author: '-Brenee Brown'
 image: img/jay-mantri-tfyi0qox08c-unsplash.jpg
+full_image: img/jay-mantri-tfyi0qox08c-unsplash.jpg
 blurb:
   heading: About Courtney
   text: As a Registered Clinical Counsellor and a Holistic Nutritionist I offer a

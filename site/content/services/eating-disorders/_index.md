@@ -1,5 +1,7 @@
 ---
 title: Eating Disorders Counselling
+quote: '"Talk to yourself like you would to someone you love."'
+author: '-Brenee Brown'
 heading: What we offer
 description: This is the description
 testimonials:
