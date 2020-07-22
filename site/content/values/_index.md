@@ -1,45 +1,36 @@
 ---
-title: "What I believe"
+title: What I believe
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: Creating a safe environment
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      One of the most important parts of my counselling work is co-creating an
+      environment where you feel safe, supported, connected, and understood. I
+      know firsthand how awkward and vulnerable it can be to walk into a
+      counselling office for the first time, so I try my best to make the
+      experience as comfortable as possible. 
+    imageUrl: /img/about-shade-grown.jpg
+  - heading: Building an alliance
+    text: I believe, and research continually shows, that the therapeutic
+      relationship--the relationship between therapist and client--typically has
+      the most significant impact on the outcome of therapy. Knowing this, I
+      strive to build a strong, authentic alliance with my clients so that they
+      feel seen and supported while exploring the range of their experience and
+      working together towards their therapeutic goals.
+    imageUrl: /img/about-single-origin.jpg
+  - heading: A client-centered philosophy
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      I recognize all individuals come to counselling with different
+      personalities, cultural backgrounds, needs, and past experiences—even if
+      their struggles sometimes look similar from the outside. Therefore, in
+      keeping with my client-centered philosophy, I work with you to blend a
+      variety of counselling modalities and techniques that best suit your
+      specific needs and goals.  
+    imageUrl: /img/about-sustainable-farming.jpg
+  - heading: An open, inclusive space
+    text: >+
+      I warmly welcome individuals of all genders, sexual orientations, and
+      cultural backgrounds.
+
+    imageUrl: /img/about-direct-sourcing.jpg
 ---
