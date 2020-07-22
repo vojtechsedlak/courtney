@@ -2,9 +2,15 @@
 
 <div class="ph3 bg-off-white">
 	<div class="center mw7 pv3">
-		
-		<img src="{{ .Params.image }}" alt="" class="fr w4 pv3">
-		<h3 class="f2 b lh-title mb3">{{ .Title }}</h3>
+		<div class="fr w4 pv3 ml2">
+			<img src="{{ .Params.image }}" alt="" class="fr w4 pv3">
+			<p class="fr w4 sideb"> {{.Params.Subtitle }}</p>
+			<div class="tc">
+				<a href="#" class="btn-full raise mb3">Make an Appointment</a>
+			</div>
+	
+		</div>
+		<h3 class="f2 b lh-title mb3 primary">{{ .Title }}</h3>
 		{{ .Content }}
 
 	</div>
