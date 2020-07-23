@@ -1,9 +1,10 @@
 ---
 title: Eating Disorders Counselling
 quote: '"Talk to yourself like you would to someone you love."'
-author: '-Brenee Brown'
+author: -Brenee Brown
+image: /img/plate-g.png
 heading: What we offer
-description: This is the description
+description: This is the description (this ield is not used)
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
@@ -18,10 +19,9 @@ values:
     one of colonialism and mindless abuse of natural resources and human lives.
     We want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
+layout: services
 full_image: /img/products-full-width.jpg
 type: services
-layout: services
-image: /img/plate-g.png
 ---
 Having struggled with disordered eating in my early twenties, I know first hand how scary, confusing, and lonely it can feel, and how difficult it can be to seek help. My personal experience living with and recovering from a disordered relationship with food and body has been a huge driving force behind the work I do with individuals struggling with eating disorders and disordered eating. 
 
