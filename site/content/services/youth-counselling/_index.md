@@ -1,27 +1,22 @@
 ---
-title: Youth Counselling Services
-quote: '"Talk to yourself like you would to someone you love."'
-author: '-Brenee Brown'
-heading: What we offer
-description: This is the description
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+title: Youth Counselling
+quote: '"I am not what happened to me. I am what I chose to become." - Carl Jung'
+author: -Brenee Brown
+image: img/youth.jpeg
+heading: My Work with Young People
+testimonials: []
 values:
   heading: My Approach
   image: img/jordan-mcqueen-88xm5al3axg-unsplash.jpg
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
-type: services
+  text: I strive to build a strong, authentic alliance with my clients so that
+    they feel seen and supported while exploring the range of their experience
+    and working together towards their therapeutic goals.
 layout: services
-image: /img/products-jumbotron.jpg
+type: services
+description: This is the description
 ---
+My ***passion for working with youth*** stems from years of experience working with young people in different capacities, from supporting youth with disabilities in community settings to counselling youth struggling with anxiety, depression and eating disorders.
 
-My passion for working with youth stems from years of experience working with young people in different capacities, and from the the compassion and admiration I have for individuals navigating this stage of life that is often chock-full of challenges--challenges around identity, self-esteem, anxiety, planning for the future, navigating relationships and family transitions, to name a few. I thoroughly enjoy providing young people with a non-judgemental and supportive space to explore themselves as they are, as well as who they want to become. 
-When I look back on my youth, I see how critical a time it was---brain growing...
+The Ayesha Siddiqi quote, “Be the person you needed when you were younger,” has also guided my path to youth counselling. ***I, like so many others, struggled with my mental and emotional health*** in my youth. Through my own experience, as well as my experience working with other youth, I’ve come to appreciate how crucial it is to prioritize one's mental health from a young age. I truly believe that learning how to understand our emotions, manage our anxieties, and develop a healthy relationship with ourselves in our youth can set the stage for good mental health in adulthood, and for a rich and fulfilling life.
+
+I have so much compassion and admiration for young individuals navigating a stage of life that is inevitably chock-full of challenges—challenges around identity, self-esteem, planning for the future, and navigating relationships and family transitions, to name a few. Therefore, ***I strive to provide my young clients with a non-judgemental and supportive space for self-discovery***.
