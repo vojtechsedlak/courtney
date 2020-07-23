@@ -31,5 +31,5 @@ values:
   image: img/jordan-mcqueen-88xm5al3axg-unsplash.jpg
   text: I strive to build a strong, authentic alliance with my clients so that
     they feel seen and supported while exploring the range of their experience
-    and working together towards their therapeutic goals.
+    and working together towards their therapeutic goals..
 ---
