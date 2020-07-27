@@ -12,7 +12,7 @@ author: .
 testimonials: []
 type: services
 quote: Youth Counselling
-image: img/banana.png
+image: img/banana.jpg
 description: This is the description
 ---
 My ***passion for working with youth*** stems from years of experience working with young people in different capacities, from supporting youth with disabilities in community settings to counselling youth struggling with anxiety, depression and eating disorders.
