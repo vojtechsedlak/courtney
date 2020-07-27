@@ -2,7 +2,7 @@
 title: Eating Disorder Counselling
 quote: .
 author: .
-image: img/igor-son-fv_pxcqgtwc-unsplash.jpg
+image: img/josh-calabrese-xxpbdu_31sg-unsplash.jpg
 heading: Helping you find peace in your relationship with food, body, and self
 description: This is the description (this ield is not used)
 testimonials:
