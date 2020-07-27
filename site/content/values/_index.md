@@ -12,20 +12,23 @@ values:
     imageUrl: img/stephanie-harvey-ppa6wsuedem-unsplash.jpg
   - heading: Building an Alliance
     text: I believe, and research continually shows, that the therapeutic
-      relationship--the relationship between therapist and client—typically has
+      relationship—the relationship between therapist and client—typically has
       the most significant impact on the outcome of therapy. Knowing this, I
       strive to build a strong, authentic alliance with my clients so that they
       feel seen and supported while exploring the range of their experience and
       working together towards their therapeutic goals.
     imageUrl: img/tim-chow-9ickpsq9g5q-unsplash.jpg
   - heading: A Client-Centered Philosophy
-    text: >
+    text: >+
       I recognize all individuals come to counselling with different
       personalities, cultural backgrounds, needs, and past experiences—even if
       their struggles sometimes look similar from the outside. Therefore, in
       keeping with my client-centered philosophy, I work with you to blend a
       variety of counselling modalities and techniques that best suit your
-      specific needs and goals.  
+      specific needs and goals. Some therapeutic tools I frequently use with
+      clients include mindfulness-based strategies, cognitive and dialectical
+      behavioural-based techniques, and emotion-focused interventions. 
+
     imageUrl: img/erol-ahmed-aiyfr0vbadk-unsplash.jpg
   - heading: An Inclusive Space
     text: >+
