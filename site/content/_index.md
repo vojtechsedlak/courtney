@@ -15,7 +15,7 @@ intro:
   heading: Counselling Services
   text: "My professional focus is on the following areas:"
 services:
-  - heading: Disordered Eating
+  - heading: Eating Disorders
     image: img/de.png
     text: I offer therapeutic support to individuals across the spectrum of
       disordered eating as well as to individuals with clinically diagnosed
