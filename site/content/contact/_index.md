@@ -1,17 +1,12 @@
 ---
-title: "Get in touch"
-image: "img/jay-mantri-tfyi0qox08c-unsplash.jpg"
+title: Contact Courtney
+image: img/zhen-hu-do5quaqayg0-unsplash.jpg
 contact_entries:
-  - heading: Location
-    text: "Open to virtual appointments using Zoom and in-person appointments in Victoria, BC."
-  - heading: Working hours
-    text: "Reach out to make an appointment. "
+  - heading: "Phone "
+    text: 778-927-2142
+  - heading: Email
+    text: "courtney@courtneysedlak.com "
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Counselling is a deeply personal experience and finding a counsellor who feels like a good fit for you is an important first step. If you'd like to connect before booking your first session to make sure I am the right person to work with you, feel free to contact me via phone or email, or schedule a free 20-minute phone/video consultation with me.
