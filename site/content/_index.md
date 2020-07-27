@@ -3,8 +3,8 @@ title: "Eating Disorder and Youth Counselling "
 subtitle: Finding a Path Forward
 quote: " “Vulnerability is the birthplace of innovation, creativity and change.” "
 author: -Brenee Brown
-image: img/website-7.jpeg
-full_image: img/website5-.jpeg
+image: img/mitchel-lensink-dfil2kw6ulw-unsplash.jpg
+full_image: img/pawel-czerwinski-lwbz01xrroi-unsplash.jpg
 blurb:
   heading: About Courtney
   text: >-
