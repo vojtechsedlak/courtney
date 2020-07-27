@@ -2,7 +2,7 @@
 title: My Work with Young People
 quote: "Youth Counselling "
 author: .
-image: img/mitchel-lensink-dfil2kw6ulw-unsplash.jpg
+image: img/josh-calabrese-xxpbdu_31sg-unsplash.jpg
 heading: "My Work With Young People "
 testimonials: []
 values:
