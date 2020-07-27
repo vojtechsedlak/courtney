@@ -1,8 +1,8 @@
 ---
 title: My Work with Young People
-quote: "Youth Counselling "
+quote: Youth Counselling
 author: .
-image: img/josh-calabrese-xxpbdu_31sg-unsplash.jpg
+image: img/igor-son-fv_pxcqgtwc-unsplash.jpg
 heading: "My Work With Young People "
 testimonials: []
 values:
