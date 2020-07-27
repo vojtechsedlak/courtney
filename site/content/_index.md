@@ -2,7 +2,7 @@
 title: "Eating Disorder and Youth Counselling "
 subtitle: Helping You On Your Journey Toward Better Mental Well-Being
 quote: " “Vulnerability is the birthplace of innovation, creativity and change.” "
-author: -Brenee Brown
+author: -Brené Brown
 image: img/pawel-czerwinski-lwbz01xrroi-unsplash.jpg
 full_image: img/mitchel-lensink-dfil2kw6ulw-unsplash.jpg
 blurb:
@@ -15,7 +15,7 @@ intro:
   heading: Counselling Services
   text: "My professional focus is on the following areas:"
 services:
-  - heading: Disordered Eating
+  - heading: Eating Disorders
     image: img/de.png
     text: I offer therapeutic support to individuals across the spectrum of
       disordered eating as well as to individuals with clinically diagnosed

@@ -5,7 +5,7 @@ values:
   image: img/scott-webb-hdyo6rr3kqk-unsplash.jpg
   text: "I know that opening up to a counsellor can be tough. I strive to build a
     strong, trusting relationship with the youth I work with so that they feel
-    seen and accepted for who they are without the fear or being judged.  "
+    seen and accepted for who they are without the fear of being judged.  "
 layout: services
 title: My Work with Young People
 author: .
