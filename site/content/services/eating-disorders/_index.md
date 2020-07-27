@@ -1,6 +1,6 @@
 ---
-title: Eating Disorder Counselling
-quote: .
+title: Why I'm Passionate About Helping You Heal
+quote: Eating Disorder Counselling
 author: .
 image: img/josh-calabrese-xxpbdu_31sg-unsplash.jpg
 heading: Helping you find peace in your relationship with food, body, and self
