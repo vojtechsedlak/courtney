@@ -1,21 +1,11 @@
-<footer class="bg-black ph3 pv4 white">
+<footer class="bg-grey-2 ph3 pv4">
 
 	<div class="mw7 center pt3">
-
-		<div class="measure-narrow center mb4">
-
-			<img src="/img/logo.png" alt="Courtney Sedlak Counselling logo" class="db w4 center mb4 br0">
-			<p class="f3 lh-title light-gray b tc mb2">Subscribe to my newsletter</p>
-			<p>Get my latest blog posts and service updates delivered to your inbox, at most once every two weeks.</p>
-
-			{{ partial "newsletter-form" . }}
-
-		</div>
 
 		<div class="flex-ns justify-between">
 
 			<div>
-				<h3 class="f4 b lh-title mb1 primary">Courtney Sedlak Counselling</h3>
+				<img src="/img/logo.png" alt="Courtney Sedlak Counselling logo" class="db w4 left mb4 br0">
 				<ul class="flex-wrap">
 					<li><a href="/services/eating-disorders" class="pr3 link">Eating Disorders</a></li>
 
@@ -31,22 +21,18 @@
 				</ul>
 			</div>
 
-			<div>
+			<div class="tr">
 				
-				<ul class="flex">
-					<li><a href="#" class="btn-full">Make an appointment</a></li>
+				<ul class="tr">
+					<li><a href="#" class="btn-full w100">Make an appointment</a></li>
 				</ul>
-			</div>
 
-			<!--<div>
-				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
-				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }}
-				</ul>
-			</div>-->
+				<div class="mt1 tr flex">
+					<p>778-927-2142<br />
+					courtney@courtneysedlak.com</p>	
+				</div>
+			</div>
+			
 
 		</div>
 		<div class="tc w100 sideb">All Rights Reserved {{ with .Site.Params.copyright }}{{.}}{{ else }}© {{ now.Format "2006"}} {{end}}</p>

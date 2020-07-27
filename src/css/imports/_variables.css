@@ -1,7 +1,8 @@
 :root {
 	/* Colors */
 	--primary: #6ba775;
-	--highlight: #A76B9D;
+	/*--highlight: #A76B9D;*/
+	--highlight: #D2472D;
 	--white: rgba(255, 255, 255, 1);
 	--off-white: rgba(255, 253, 252, 1);
 	--grey-1: rgba(245, 243, 242, 1);
@@ -17,6 +18,7 @@
 	--font-size: 15px;
 	--font-size-m: 17px;
 	--font-size-l: 19px;
+	--font-size-xl: 25px;
 
 	--body-font-weight: 400;
 	--bold-font-weight: 700;
