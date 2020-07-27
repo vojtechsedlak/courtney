@@ -2,15 +2,15 @@
 title: Youth Counselling
 quote: '"I am not what happened to me. I am what I chose to become." '
 author: "- Carl Jung "
-image: img/zhen-hu-do5quaqayg0-unsplash.jpg
+image: img/igor-son-fv_pxcqgtwc-unsplash.jpg
 heading: My Work with Young People
 testimonials: []
 values:
   heading: My Approach
-  image: img/jordan-mcqueen-88xm5al3axg-unsplash.jpg
-  text: I strive to build a strong, authentic alliance with my clients so that
-    they feel seen and supported while exploring the range of their experience
-    and working together towards their therapeutic goals.
+  image: img/scott-webb-hdyo6rr3kqk-unsplash.jpg
+  text: "I know that opening up to a counsellor can be tough. I strive to build a
+    strong, trusting relationship with the youth I work with so that they feel
+    seen and accepted for who they are without the fear or being judged.  "
 layout: services
 type: services
 description: This is the description
