@@ -2,7 +2,7 @@
 title: Why I'm Passionate About Helping You Heal
 quote: Eating Disorder Counselling
 author: .
-image: img/josh-calabrese-xxpbdu_31sg-unsplash.jpg
+image: img/annie-spratt-hx_hf2lppuu-unsplash.jpg
 heading: Helping you find peace in your relationship with food, body, and self
 description: This is the description (this ield is not used)
 testimonials:
