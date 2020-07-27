@@ -9,7 +9,7 @@ values:
       know firsthand how awkward and vulnerable it can be to walk into a
       counselling office for the first time, so I try my best to make the
       experience as comfortable as possible. 
-    imageUrl: img/website7.jpeg
+    imageUrl: img/stephanie-harvey-ppa6wsuedem-unsplash.jpg
   - heading: Building an Alliance
     text: I believe, and research continually shows, that the therapeutic
       relationship--the relationship between therapist and client—typically has
@@ -17,7 +17,7 @@ values:
       strive to build a strong, authentic alliance with my clients so that they
       feel seen and supported while exploring the range of their experience and
       working together towards their therapeutic goals.
-    imageUrl: img/stephanie-harvey-t0inbt7nrme-unsplash.jpg
+    imageUrl: img/annie-spratt-8mqow4dbbsg-unsplash.jpg
   - heading: A Client-Centered Philosophy
     text: >
       I recognize all individuals come to counselling with different
