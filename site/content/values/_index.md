@@ -17,7 +17,7 @@ values:
       strive to build a strong, authentic alliance with my clients so that they
       feel seen and supported while exploring the range of their experience and
       working together towards their therapeutic goals.
-    imageUrl: img/annie-spratt-8mqow4dbbsg-unsplash.jpg
+    imageUrl: img/tim-chow-9ickpsq9g5q-unsplash.jpg
   - heading: A Client-Centered Philosophy
     text: >
       I recognize all individuals come to counselling with different
