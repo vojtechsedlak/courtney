@@ -1,9 +1,9 @@
 ---
-title: Youth Counselling
-quote: '"I am not what happened to me. I am what I chose to become." '
-author: "- Carl Jung "
+title: My Work with Young People
+quote: "Youth Counselling "
+author: .
 image: img/igor-son-fv_pxcqgtwc-unsplash.jpg
-heading: My Work with Young People
+heading: "My Work With Young People "
 testimonials: []
 values:
   heading: My Approach
