@@ -2,7 +2,7 @@
 title: "Eating Disorder and Youth Counselling "
 subtitle: Helping You On Your Journey Toward Better Mental Well-Being
 quote: " “Vulnerability is the birthplace of innovation, creativity and change.” "
-author: -Brenee Brown
+author: -Brené Brown
 image: img/pawel-czerwinski-lwbz01xrroi-unsplash.jpg
 full_image: img/mitchel-lensink-dfil2kw6ulw-unsplash.jpg
 blurb:
