@@ -15,10 +15,10 @@ testimonials:
 values:
   heading: My Approach
   image: img/scott-webb-hdyo6rr3kqk-unsplash.jpg
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: I know firsthand how difficult it can be opening up to someone about your
+    struggles with food and body. I strive to build a strong, authentic alliance
+    with my clients so that they feel safe, seen, and supported while exploring
+    the range of their experience.
 layout: services
 full_image: /img/products-full-width.jpg
 type: services
