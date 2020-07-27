@@ -1,9 +1,9 @@
 ---
-title: Eating Disorders Counselling
-quote: '"Talk to yourself like you would to someone you love."'
-author: -Brenee Brown
-image: /img/plate-g.png
-heading: What we offer
+title: Eating Disorder Counselling
+quote: .
+author: .
+image: img/igor-son-fv_pxcqgtwc-unsplash.jpg
+heading: Helping you find peace in your relationship with food, body, and self
 description: This is the description (this ield is not used)
 testimonials:
   - author: Elisabeth Kaurismäki
