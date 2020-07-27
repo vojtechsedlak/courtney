@@ -1,10 +1,5 @@
 ---
-title: My Work with Young People
-quote: Youth Counselling
-author: .
-image: img/igor-son-fv_pxcqgtwc-unsplash.jpg
 heading: "My Work With Young People "
-testimonials: []
 values:
   heading: My Approach
   image: img/scott-webb-hdyo6rr3kqk-unsplash.jpg
@@ -12,7 +7,12 @@ values:
     strong, trusting relationship with the youth I work with so that they feel
     seen and accepted for who they are without the fear or being judged.  "
 layout: services
+title: My Work with Young People
+author: .
+testimonials: []
 type: services
+quote: Youth Counselling
+image: img/banana.png
 description: This is the description
 ---
 My ***passion for working with youth*** stems from years of experience working with young people in different capacities, from supporting youth with disabilities in community settings to counselling youth struggling with anxiety, depression and eating disorders.
