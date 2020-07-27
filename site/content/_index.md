@@ -3,13 +3,17 @@ title: "Eating Disorder and Youth Counselling "
 subtitle: Finding a Path Forward
 quote: " “Vulnerability is the birthplace of innovation, creativity and change.” "
 author: -Brenee Brown
-image: img/website1.jpeg
-full_image: img/website2.jpeg
+image: img/website4.jpeg
+full_image: img/website5-.jpeg
 blurb:
   heading: About Courtney
-  text: As a Registered Clinical Counsellor and a Holistic Nutritionist I offer
+  text: >-
+    As a Registered Clinical Counsellor and a Holistic Nutritionist I offer
     counselling services for individuals struggling with disordered eating and
     youth virtually and in-person in Victoria, BC.
+
+
+    NOTE: Due to COVID-19, counselling at this time will only be offered virtually in order to keep everyone as safe as possible.  
   profile: img/courtney-r.png
 intro:
   heading: Counselling Services
@@ -29,7 +33,7 @@ services:
     address: /services/youth-counselling
 values:
   heading: My Approach
-  image: img/website3-.jpeg
+  image: img/website-6-.jpeg
   text: I strive to build a strong, authentic alliance with my clients so that
     they feel seen and supported while exploring the range of their experience
     and working together towards their therapeutic goals.
