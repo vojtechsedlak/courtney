@@ -1,6 +1,6 @@
 ---
 title: My Work with Young People
-quote: Youth Counselling
+quote: Young Adult and Youth Counselling
 author: .
 image: img/banana.jpg
 heading: "My Work With Young People "
