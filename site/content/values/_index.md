@@ -1,6 +1,6 @@
 ---
 title: My Counselling Approach
-image: img/scott-webb-hdyo6rr3kqk-unsplash.jpg
+image: img/pawel-czerwinski-lwbz01xrroi-unsplash.jpg
 values:
   - heading: Creating a Safe Environment
     text: >
