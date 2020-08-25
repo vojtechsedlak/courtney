@@ -16,10 +16,9 @@ intro:
   text: "My professional focus is on the following areas:"
 services:
   - heading: Eating Disorders
-    image: img/de.png
-    text: I offer therapeutic support to individuals across the spectrum of
-      disordered eating as well as to individuals with clinically diagnosed
-      eating disorders.
+    image: img/blog-index.jpg
+    text: I offer therapeutic support to individuals struggling with disordered
+      eating as well as to people with clinically diagnosed eating disorders.
     address: /services/eating-disorders
   - heading: Youth Counselling
     image: img/yc.png
