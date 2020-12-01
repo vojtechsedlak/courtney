@@ -1,5 +1,5 @@
 ---
-title: Eating Disorder and Youth Counselling in Victoria, BC and Vancouver, BC
+title: Eating Disorder and Youth Counselling
 subtitle: Supporting You On Your Journey Toward Better Well-Being
 quote: " “Vulnerability is the birthplace of innovation, creativity and change.” "
 author: -Brené Brown
