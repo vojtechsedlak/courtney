@@ -7,6 +7,6 @@ contact_entries:
   - heading: Email
     text: "courtney@courtneysedlak.com "
 ---
-
-
 Counselling is a deeply personal experience and finding a counsellor who feels like a good fit for you is an important first step. If you'd like to connect before booking your first session to make sure I am the right person to work with you, feel free to contact me via phone or email, or schedule a free 20-minute phone/video consultation with me.
+
+**NOTE: I am currently taking maternity leave until February 2022, at which time I will be accepting new clients.**
